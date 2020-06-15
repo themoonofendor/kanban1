@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/kanban1/static/css/main.21fa802b.chunk.css",
+    "main.js": "/kanban1/static/js/main.8ccc262c.chunk.js",
+    "main.js.map": "/kanban1/static/js/main.8ccc262c.chunk.js.map",
+    "runtime-main.js": "/kanban1/static/js/runtime-main.721114f5.js",
+    "runtime-main.js.map": "/kanban1/static/js/runtime-main.721114f5.js.map",
+    "static/css/2.e7c4c567.chunk.css": "/kanban1/static/css/2.e7c4c567.chunk.css",
+    "static/js/2.e114783d.chunk.js": "/kanban1/static/js/2.e114783d.chunk.js",
+    "static/js/2.e114783d.chunk.js.map": "/kanban1/static/js/2.e114783d.chunk.js.map",
+    "index.html": "/kanban1/index.html",
+    "precache-manifest.c090ae98d1fabad80b73c0a3da52ccec.js": "/kanban1/precache-manifest.c090ae98d1fabad80b73c0a3da52ccec.js",
+    "service-worker.js": "/kanban1/service-worker.js",
+    "static/css/2.e7c4c567.chunk.css.map": "/kanban1/static/css/2.e7c4c567.chunk.css.map",
+    "static/css/main.21fa802b.chunk.css.map": "/kanban1/static/css/main.21fa802b.chunk.css.map",
+    "static/js/2.e114783d.chunk.js.LICENSE.txt": "/kanban1/static/js/2.e114783d.chunk.js.LICENSE.txt",
+    "static/media/blocker.svg": "/kanban1/static/media/blocker.11907afe.svg",
+    "static/media/critical.svg": "/kanban1/static/media/critical.8880f1fb.svg",
+    "static/media/help.svg": "/kanban1/static/media/help.d7322dc2.svg",
+    "static/media/major.svg": "/kanban1/static/media/major.0f285b32.svg",
+    "static/media/menu.svg": "/kanban1/static/media/menu.b243f90c.svg",
+    "static/media/minor.svg": "/kanban1/static/media/minor.cdf6fc51.svg",
+    "static/media/pencil.svg": "/kanban1/static/media/pencil.ddbb4693.svg",
+    "static/media/plus.svg": "/kanban1/static/media/plus.7b65c534.svg",
+    "static/media/plusWhite.svg": "/kanban1/static/media/plusWhite.49b3a28c.svg",
+    "static/media/rhombus.svg": "/kanban1/static/media/rhombus.3cc612a2.svg",
+    "static/media/search.svg": "/kanban1/static/media/search.2e0925c0.svg",
+    "static/media/trash.svg": "/kanban1/static/media/trash.d98b87f0.svg",
+    "static/media/trivial.svg": "/kanban1/static/media/trivial.163f67f5.svg",
+    "static/media/user.svg": "/kanban1/static/media/user.89716896.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.721114f5.js",
+    "static/css/2.e7c4c567.chunk.css",
+    "static/js/2.e114783d.chunk.js",
+    "static/css/main.21fa802b.chunk.css",
+    "static/js/main.8ccc262c.chunk.js"
+  ]
+}
