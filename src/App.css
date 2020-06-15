@@ -1,38 +1,120 @@
-.App {
-  text-align: center;
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", "Times New Roman", serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html, body, #root {
+    width: 100%;
+    height: auto;
+    min-height: 100% !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1, h2, h3 {
+    color: #192b4d;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.my-button {
+    background-color: #eff2f4 !important;
 }
 
-.App-link {
-  color: #61dafb;
+.my-button:hover:not([disabled]) {
+    background-color: #d7dadc !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.bg-color-primary {
+    background-color: #0049b0;
+}
+
+.bg-color-secondary {
+    background-color: #eff2f4;
+}
+
+.align-flex {
+    display: flex;
+}
+
+.col-1-w {
+    width: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.col-2-w {
+    width: 300px;
+    position: fixed;
+    top: 0;
+    left: 80px;
+}
+
+.col-3-w {
+    margin-left: 80px;
+    padding: 30px;
+    min-height: 100% !important;
+}
+
+.profile-wrapper {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.help-wrapper {
+    position: absolute;
+    bottom: 60px;
+    left: 0;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.status-col-title {
+    color: #707e94;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.col-drag-over {
+    background-color: #d7dadc;
+    transition-duration: 500ms;
+}
+
+.col.bg-color-secondary {
+    transition-duration: 500ms;
+}
+
+.task-drag-over {
+    opacity: 0;
+    transition-duration: 150ms;
+}
+
+.no-pointer {
+    pointer-events: none;
+}
+
+.icon {
+    padding: 8px;
+    border-radius: 20%;
+    transition: 500ms;
+    cursor: pointer;
+}
+
+.icon:hover {
+    background-color: #e3e3e3;
+    transition: 500ms;
+}
+
+.priority-ic {
+    vertical-align: middle;
+    width: 16px;
+    height: 16px;
+}
+
+.menu-ic {
+    vertical-align: middle;
+    width: 16px;
+    height: 16px;
 }
